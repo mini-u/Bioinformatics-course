@@ -1,4 +1,5 @@
-# 2743 ¹®ÀÚ¿­ ±æÀÌ
+# -*- coding: utf-8 -*-
+# 2743 ë¬¸ìì—´ ê¸¸ì´
 
 letters = len(input())
 print(letters)
