@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 2744 ´ë¼Ò¹®ÀÚ ¹Ù²Ù±â
+# 2744 ëŒ€ì†Œë¬¸ì ë°”ê¾¸ê¸°
 
 words = input().swapcase()
 print(words)
